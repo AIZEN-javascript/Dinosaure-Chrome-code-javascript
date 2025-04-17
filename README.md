@@ -25,3 +25,5 @@ Activez le mode immortel, boostez la vitesse, marchez dans les airs, et bien plu
 3. Ouvre la console développeur (`F12` ou clic droit > Inspecter > onglet Console)
 4. Colle le **script complet** du menu (fichier `dino_menu.js`)
 5. Appuie sur **Entrée** et profite ! 🎮
+
+![image](https://github.com/user-attachments/assets/29cc8898-88a6-4e08-b351-4635caf966de)
