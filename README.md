@@ -21,7 +21,7 @@ Activez le mode immortel, boostez la vitesse, marchez dans les airs, et bien plu
 ## 📦 Installation
 
 1. Ouvre Chrome
-2. Va sur `chrome://dino`
+2. Va sur `chrome://dino` ou `https://trex-runner.com/`
 3. Ouvre la console développeur (`F12` ou clic droit > Inspecter > onglet Console)
 4. Colle le **script complet** du menu (fichier `dino_menu.js`)
 5. Appuie sur **Entrée** et profite ! 🎮
